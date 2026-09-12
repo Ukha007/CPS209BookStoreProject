@@ -1,0 +1,25 @@
+Welcome to the Program!
+
+ADMINISTRATION.
+1. Input the Book Name,ID and other attributes in the text boxes.
+2. Add the book to the store inventory using the add button.
+3. Remove the latest book added to the store using the delete button.
+4. Edit a certain book if it has the same ID then press the edit button to finalize.
+USER LOGIN.
+1. Input email/phone/username to the Phone/Email text box.
+2. Enter password to the password text box.
+3. Re enter password to the password text box (must be the exact same casesensitive).
+4. Register by pressing the confirm button.
+SHOP.
+1. Use the 'FIND' button to search for products.
+2. Use the Display button to show every item in store.
+3. After pressing the find button use the Add to cart button and to remove use the Remove button.
+4. Display the prices in order of price using the ascending / descending buttons.
+Checkout.
+1. Items in cart will appear on the right in a box and you can empty the cart by pressing the button underneath.
+2. For a store discount input your username and email and then click on Apply Discount.
+3. The grand total will update as you add books, enter your account balance to pay.
+4. Press the pay button to confirm (price must be lower than account balance).
+4. Press the receipt button to show the transaction details.
+
+Thank you for using the program!

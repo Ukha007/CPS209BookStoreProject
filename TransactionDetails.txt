@@ -1,0 +1,13 @@
+Transaction Details:
+Email: bob
+Cart Items:
+Name: Harry Potter
+ID: 1235513
+Type: Novel
+Genre: Fantasy
+Price: 12.99
+---------------------------------
+Total Price (with discount): $10.52
+Account Balance: $12.0
+Remaining Balance: $1.48
+----------------------------------------
